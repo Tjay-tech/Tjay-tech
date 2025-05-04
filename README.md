@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding and cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me email: tjtobi07@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im new to this coding stuf 
 
