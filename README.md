@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Tjay-tech
-- 👀 I’m interested in coding and cyber security
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: tjtobi07@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Im new to this coding stuf 
+Name: Tjay
+Role: Cybersecurity Student
+Focus: Blue Team | Penetration Testing
+OS: Kali Linux
+Learning: Networking, Linux, Python, Web Security
+Status: Building skills one exploit at a time
 
 <!---
 Tjay-tech/Tjay-tech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
